@@ -4,3 +4,6 @@
 
 #### 1. Простейшие задачи по программированию
 * 📄 **[1_prog_basics.bsl](prog_basics/1_prog_basics.bsl)**
+
+#### 2. Поиск ошибок в коде
+* 📄 **[2_error_search.bsl](prog_basics/1_prog_basics.bsl)**
