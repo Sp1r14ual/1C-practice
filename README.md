@@ -10,3 +10,6 @@
 
 #### 3. Условный оператор
 * 📄 **[3_conditional_operator.bsl](prog_basics/3_conditional_operator.bsl)**
+
+#### 4. Циклический оператор
+* 📄 **[4_loops.bsl](prog_basics/4_loops.bsl)**
