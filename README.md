@@ -13,3 +13,6 @@
 
 #### 4. Циклический оператор
 * 📄 **[4_loops.bsl](prog_basics/4_loops.bsl)**
+
+#### 5. Задачи на работу с числами
+* 📄 **[5_number_problems.bsl](prog_basics/5_number_problems.bsl)**
